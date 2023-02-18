@@ -44,7 +44,7 @@ form input {
 
 form input:not([type="submit"]).error {
   border: 2px solid red;
-  background-image: url("icons/failure.svg");
+  background-image: url("images/failure.svg");
   background-size: 20px 20px;
   background-repeat: no-repeat;
   background-position: 98%;
@@ -52,7 +52,7 @@ form input:not([type="submit"]).error {
 
 form input:not([type="submit"]).valid {
   border: 2px solid green;
-  background-image: url("icons/success.svg");
+  background-image: url("images/success.svg");
   background-size: 20px 20px;
   background-repeat: no-repeat;
   background-position: 98%;
